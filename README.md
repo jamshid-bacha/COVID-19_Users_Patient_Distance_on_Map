@@ -41,16 +41,8 @@ Contact Tracing: Assists authorities in tracking individuals who may have come i
 Real-Time Alerts: Helps users stay informed about their exposure risks and avoid red zones.
 Public Health Support: Enhances community safety by providing actionable location-based data.
 
-<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:60%; height:60%;"></figure>
 
-<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/67943d37-0651-442f-8eaa-8e6d5304b243" alt="Placeholder" style="width:60%; height:60%;"></figure>
 
-<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
-
-![IMG-20210219-WA0022](https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2)
-
-
-![IMG-20210719-WA0006](https://github.com/user-attachments/assets/67943d37-0651-442f-8eaa-8e6d5304b243)
-
-
-![IMG-20210320-WA0002](https://github.com/user-attachments/assets/13bd33c0-8b03-4f7e-948b-ee6dba587ccc)
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/13bd33c0-8b03-4f7e-948b-ee6dba587ccc" alt="Placeholder" style="width:60%; height:60%;"></figure>
