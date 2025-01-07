@@ -41,6 +41,12 @@ Contact Tracing: Assists authorities in tracking individuals who may have come i
 Real-Time Alerts: Helps users stay informed about their exposure risks and avoid red zones.
 Public Health Support: Enhances community safety by providing actionable location-based data.
 
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
+
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
+
+<figure style="width:300px; height:300px; border:1px solid #ccc;"><img src="https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2" alt="Placeholder" style="width:100%; height:100%;"></figure>
+
 ![IMG-20210219-WA0022](https://github.com/user-attachments/assets/82175316-1c64-477e-8f17-da78c4b5b6f2)
 
 
