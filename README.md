@@ -4,39 +4,39 @@ The core goal is to enhance public health measures by alerting individuals when 
 
 
 # Features #
-Google Maps Integration:
+**Google Maps Integration:**
 Displays user locations and overlays interactive red zones indicating areas of potential exposure.
 Maps patient traces with precise distance measurements to nearby users.
 
-Dynamic Red Circles:
+**Dynamic Red Circles:**
 A 10m radius red circle represents the personal exposure zone of a user who may have been in contact with a COVID-19 patient.
 A 100m radius red circle indicates a high-risk red zone where confirmed cases have been reported.
 
-Proximity Alert System:
+**Proximity Alert System:**
 Tracks user movement in real-time.
 Alerts the user with a notification if they enter a red zone (100m radius) or come within close proximity (10m radius) to a high-risk individual.
 
-Distance Measurement:
+**Distance Measurement:**
 Computes the distance between the user's current location and the red zones or nearby patient traces.
 Visualized directly on the map to ensure transparency and informed decision-making.
 
-User-Friendly Visualization:
+**User-Friendly Visualization:**
 Intuitive Google Maps interface that dynamically updates as users move.
 Red zones and proximity alerts provide a clear indication of risk areas.
 
 
-Description of Results:
+# Description of Results #
 In the screenshot (attached):
 
-Red Circles:
+**Red Circles:**
 Smaller red circles (10m radius) mark the immediate exposure zones around high-risk individuals.
 Larger red circles (100m radius) represent the high-risk "red zones" identified by public health authorities.
 Distance Indicators: Shows the measured distance between the user’s location and the nearest high-risk area or individual. This feature helps users understand their risk level and act accordingly.
 
-Proximity Alerts: 
+**Proximity Alerts:** 
 The system triggers an alert whenever the user enters a red zone or comes within a 10m radius of a high-risk individual, reminding them to take necessary precautions like wearing a mask, maintaining distance, or leaving the area.
 
-Practical Use Cases:
+**Practical Use Cases:**
 Contact Tracing: Assists authorities in tracking individuals who may have come into contact with COVID-19 patients.
 Real-Time Alerts: Helps users stay informed about their exposure risks and avoid red zones.
 Public Health Support: Enhances community safety by providing actionable location-based data.
