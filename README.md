@@ -26,7 +26,6 @@ Red zones and proximity alerts provide a clear indication of risk areas.
 
 
 # Description of Results #
-In the screenshot (attached):
 
 **Red Circles:**
 Smaller red circles (10m radius) mark the immediate exposure zones around high-risk individuals.
